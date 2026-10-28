@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #222;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #234b8a;
+}
+
+h2 {
+    color: #345e9d;
+}
+
+h3 {
+    color: #3a5b8d;
+}
+
+a {
+    color: #0066cc;
+}
+
+a:hover {
+    color: #ff6600;
+}
+
+img {
+    height: auto;
+}
